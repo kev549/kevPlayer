@@ -17,12 +17,11 @@ A video player for android tv based on ijkplayer.
 ## About me
 
 Email: coder.john.cheung@gmail.com<br><br>
-CSDN blog: http://blog.csdn.net/johnwcheung<br><br>
-Github: https://github.com/coderJohnZhang
+Github: https://github.com/kev549coderJohnZhang
 
 ## License
 
-		Copyright 2018 John Cheung
+		Copyright 2018 
 
 		Licensed under the Apache License, Version 2.0 (the "License");
 		you may not use this file except in compliance with the License.
